@@ -33,7 +33,7 @@
 
 基本数据类型
 整型：char、short、int、long和long long
-
+浮点型：float、double和long double
 
 
 
